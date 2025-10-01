@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Desenvolvedor Web | 🎨 Designer | 📊 Data Analyst<br>🚀 Sempre aprendendo e construindo projetos que unem tecnologia e criatividade</p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+💻 Desenvolvedor Web | 🎨 Designer | 📊 Data Analyst
+
+🚀 Sempre aprendendo e construindo projetos que unem tecnologia e criatividade, especialmente automações inteligentes com n8n e IA.</p>
 
 ###
 
