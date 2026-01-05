@@ -12,7 +12,7 @@
 
 <p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-💻 Desenvolvedor Web | 🎨 Designer | 📊 Data Analyst
+💻 Desenvolvedor | 🎨 Designer | 📊 Automation Mnager
 
 🚀 Sempre aprendendo e construindo projetos que unem tecnologia e criatividade, especialmente automações inteligentes com n8n e IA.</p>
 
